@@ -1,0 +1,20 @@
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Permalinks
+permalink:        pretty
+
+# Compile CSS
+sass:
+  style: compressed
+sass:
+  sass_dir: _sass
+
+# Setup
+title:            Seed Stage Design
+tagline:          'An early stage design partner for B2B tech companies'
+description:      'A San Francisco based Product Designer.'
+url:              https://seedstage.design
+baseurl:          https://seedstage.design/
